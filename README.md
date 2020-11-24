@@ -1,0 +1,3 @@
+# berlin-corona-plotter
+
+`make`.
